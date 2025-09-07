@@ -71,7 +71,7 @@ Love to collaborate or talk tech? Find me here:
 
 <div align="center">
   <a href="https://portfolio-enmvnuel-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/Enmvnuel"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/cristopher-arias-p/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
 ## 🎉 Fun Fact
