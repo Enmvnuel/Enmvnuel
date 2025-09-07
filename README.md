@@ -6,33 +6,43 @@
 
 ## 🌟 About Me
 
-Hey there! I'm a passionate **Full-Stack Developer** with a love for creating sleek, user-friendly web applications that solve real-world problems. I thrive on turning ideas into reality with clean code and innovative solutions. Whether it's building responsive frontends, optimizing backends, or diving into new tools, I'm always up for a challenge! 
+I'm a **Full-Stack Developer** passionate about crafting user-friendly web apps. I love turning ideas into reality with clean code and modern tools. Always exploring new tech to create awesome digital experiences!
 
-- 🌐 Specializing in modern web development with a focus on performance and scalability
-- 💻 Currently exploring **React**, **Node.js**, and **Docker** to build cutting-edge projects
-- 📚 Lifelong learner, constantly experimenting with new frameworks and technologies
-- 🎯 Goal: Craft delightful digital experiences that make users say, "Wow, that's cool!"
+- 🌐 Focused on scalable, performant web solutions
+- 💻 Working on **React**, **Node.js**, and **Docker** projects
+- 📚 Lifelong learner, experimenting with new frameworks
 
 ## 🛠️ Tech Stack
 
-I'm comfortable with a wide range of tools and technologies. Here's what I work with:
-
+### Core Web
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</div>
+
+### Frameworks & Libraries
+<div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+</div>
+
+### Package Managers
+<div align="center">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
+</div>
+
+### Deployment & Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-  <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm" />
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
 </div>
 
 ## 📊 My GitHub Stats
@@ -57,7 +67,7 @@ Here are a couple of projects I'm proud of:
 
 ## 📫 Let's Connect!
 
-I'm always excited to collaborate, share ideas, or just chat about tech! Reach out to me here:
+Love to collaborate or talk tech? Find me here:
 
 <div align="center">
   <a href="https://portfolio-enmvnuel-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
@@ -66,11 +76,14 @@ I'm always excited to collaborate, share ideas, or just chat about tech! Reach o
 
 ## 🎉 Fun Fact
 
-When I'm not coding, you might find me exploring new coffee shops or tweaking my Neovim setup for the *perfect* coding experience. 😄
+When not coding, I'm hunting for the perfect coffee or tweaking my Neovim setup. 😄
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Enmvnuel&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://raw.githubusercontent.com/Enmvnuel/Enmvnuel/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Enmvnuel&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
